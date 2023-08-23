@@ -1,0 +1,10 @@
+
+DROP TABLE IF EXISTS `aa`;
+CREATE TABLE `aa` (
+  `id` varchar(36) NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb3;
+
+DROP TABLE IF EXISTS `bb`;
+CREATE TABLE `bb` (
+  `id` varchar(36) NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb3;
